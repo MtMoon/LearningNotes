@@ -3,7 +3,7 @@
 2. XX models have recently proven to be successful at different tasks
 3. another kind of tasks are centered around XXX, which have a broad set of applications
 4. our experimental results also demonstrate that
-5. in Section X， we detail the XXX，<font color=red>这里detail做动词</font>
+5. in Section X， we detail the XXX，<font color=red> **这里detail做动词** </font>
 6. XXX are hyper-parameters to be chosen
 7. Previous accounts of semantic representation fall under three broad families
 8. while poem generation is a highly creative process that involves not only rules but also innovations for which pure statistical models are not appropriate in principle.
